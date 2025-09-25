@@ -1,0 +1,359 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2022.4 2022.10, Oct 18 2022
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/Users/Ru/Desktop/Ru/25-26/Q1_1/Digital Systems Design and Verification using Hardware Description Languages/Homework/HW1/il2234-hw1-main
+T_opt
+!s110 1758474889
+VBin[6_amzn@:bZXJ00K@30
+04 15 4 work registerfile_tb fast 0
+=1-70a8d387cf94-68d03289-ea-4ee0
+R0
+Z2 !s12b OEM100
+Z3 !s124 OEM100
+Z4 o-quiet -auto_acc_if_foreign -work work
+Z5 tCvgOpt 0
+n@_opt
+Z6 OL;O;2022.4;75
+T_opt1
+!s110 1758471330
+V=Vf]nGZoH203>Ld0ZW]0h1
+Z7 04 9 4 work upcnt4_tb fast 0
+=1-70a8d387cf94-68d024a2-1b3-c24
+R0
+R2
+R3
+R4
+R5
+n@_opt1
+R6
+R1
+T_opt2
+!s110 1758471498
+V>3LdBea8mI=cNHj<`7ag93
+R7
+=1-70a8d387cf94-68d0254a-1b5-6cdc
+R0
+R2
+R3
+R4
+R5
+n@_opt2
+R6
+R1
+vfrequency_divider
+Z8 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z9 !s110 1758474842
+!i10b 1
+!s100 Vf[MB7TmW07OOP6]ef]280
+I>[?=l?8Tb8_ZQm@@>SI1X3
+S1
+Z10 dC:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0
+w1758474431
+8C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q4/frequency_divider.sv
+FC:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q4/frequency_divider.sv
+!i122 218
+L0 1 37
+Z11 VDg1SIo80bB@j0V0VzS_@n1
+Z12 OL;L;2022.4;75
+r1
+!s85 0
+31
+Z13 !s108 1758474842.000000
+!s107 C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q4/frequency_divider.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q4/frequency_divider.sv|
+!i113 0
+Z14 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R5
+vfrequency_divider_tb
+R8
+Z15 !s110 1758474843
+!i10b 1
+!s100 @X_8oA8lY5eBnofa9;S[G3
+IRjl=fSY1@7GEA?P?dU5TB1
+S1
+R10
+w1758474440
+8C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q4/frequency_divider_tb.sv
+FC:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q4/frequency_divider_tb.sv
+!i122 219
+L0 2 26
+R11
+R12
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q4/frequency_divider_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q4/frequency_divider_tb.sv|
+!i113 0
+R14
+R5
+vLFSR_6bit
+R8
+R9
+!i10b 1
+!s100 _TLO^1zKz=A<W5M5nnO;i3
+IN=h[3h>3oeP>ZmaIU>j:I1
+S1
+R10
+w1758468939
+8C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q2/LFSR_6bit.sv
+FC:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q2/LFSR_6bit.sv
+!i122 215
+Z16 L0 1 27
+R11
+R12
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q2/LFSR_6bit.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q2/LFSR_6bit.sv|
+!i113 0
+R14
+R5
+n@l@f@s@r_6bit
+vLFSR_6bit_tb
+R8
+R9
+!i10b 1
+!s100 _kYaEoi`Y?T4S?P9zfQ5X3
+IaESeR=Qb@dcmk<jAdB0Ib0
+S1
+R10
+w1758469217
+8C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q2/LFSR_6bit_tb.sv
+FC:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q2/LFSR_6bit_tb.sv
+!i122 216
+L0 3 28
+R11
+R12
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q2/LFSR_6bit_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q2/LFSR_6bit_tb.sv|
+!i113 0
+R14
+R5
+n@l@f@s@r_6bit_tb
+vregisterfile
+R8
+R15
+!i10b 1
+!s100 m@LKbfIG<o_O6_<YbTeYd2
+Ib<UVeInKio4g>gA>UAb512
+S1
+R10
+w1758449059
+8C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q5/register_file.sv
+FC:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q5/register_file.sv
+!i122 220
+R16
+R11
+R12
+r1
+!s85 0
+31
+Z17 !s108 1758474843.000000
+!s107 C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q5/register_file.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q5/register_file.sv|
+!i113 0
+R14
+R5
+vregisterfile_tb
+R8
+R15
+!i10b 1
+!s100 NnFCQAUoCMdh>4C?a9PKO1
+I=oCHSlaITAVGfUibXlS`73
+S1
+R10
+w1758474833
+8C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q5/register_file_tb.sv
+FC:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q5/register_file_tb.sv
+!i122 221
+L0 2 70
+R11
+R12
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q5/register_file_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q5/register_file_tb.sv|
+!i113 0
+R14
+R5
+vshift_register
+R8
+R9
+!i10b 1
+!s100 WUSI<aO92JjPQ>393HbYI1
+IXC5nhiZKO889D7fS[c2Hd1
+S1
+R10
+w1758454717
+8C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q1/shift_regiter.sv
+FC:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q1/shift_regiter.sv
+!i122 212
+Z18 L0 1 31
+R11
+R12
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q1/shift_regiter.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q1/shift_regiter.sv|
+!i113 0
+R14
+R5
+vshift_register_tb
+R8
+R9
+!i10b 1
+!s100 ojQ1?Bi1<M7Q79[nV3O`c0
+IJcakncNhUIohRW1Sa@0;b1
+S1
+R10
+w1758456549
+8C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q1/shift_register_tb.sv
+FC:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q1/shift_register_tb.sv
+!i122 211
+L0 3 38
+R11
+R12
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q1/shift_register_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q1/shift_register_tb.sv|
+!i113 0
+R14
+R5
+vup_down_counter
+R8
+R9
+!i10b 1
+!s100 NUc8Jc@`=kkQ98Z@SzfW93
+I]B773lR_H5M>b[kaV6NjV3
+S1
+R10
+w1758462457
+8C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q3/up_down_counter.sv
+FC:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q3/up_down_counter.sv
+!i122 213
+R18
+R11
+R12
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q3/up_down_counter.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q3/up_down_counter.sv|
+!i113 0
+R14
+R5
+vup_down_counter_tb
+R8
+R9
+!i10b 1
+!s100 ]nBDP@Sc>WGGH[16BGK4B0
+IdETZmUffI^9eNIiX4b]gB3
+S1
+R10
+w1758467942
+8C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q3/up_down_counter_tb.sv
+FC:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q3/up_down_counter_tb.sv
+!i122 214
+L0 3 36
+R11
+R12
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q3/up_down_counter_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q3/up_down_counter_tb.sv|
+!i113 0
+R14
+R5
+vupcnt4
+R8
+R9
+!i10b 1
+!s100 SZA;=Qk9llk2VQm]Y6<ji1
+I2B;HQ:6BHAD^R>K2NePn@2
+S1
+R10
+w1758383452
+8C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q4/upcnt4.sv
+FC:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q4/upcnt4.sv
+!i122 217
+L0 1 26
+R11
+R12
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q4/upcnt4.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q4/upcnt4.sv|
+!i113 0
+R14
+R5
+vupcnt4_tb
+R8
+!s110 1758471484
+!i10b 1
+!s100 5a9Wc>TmG]_IX`mjL?@iX3
+Io::TfgF[TYaFzgDMzmZFi2
+S1
+R10
+w1758471314
+8C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/uppcnt4_tb.sv
+FC:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/uppcnt4_tb.sv
+!i122 143
+L0 3 35
+R11
+R12
+r1
+!s85 0
+31
+!s108 1758471484.000000
+!s107 C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/uppcnt4_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/uppcnt4_tb.sv|
+!i113 0
+R14
+R5

@@ -1,0 +1,79 @@
+C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q4/frequency_divider.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q4/frequency_divider.sv
+QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module frequency_divider
+
+Top level modules:
+	frequency_divider
+
+} {} {}} C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q1/shift_regiter.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q1/shift_regiter.sv
+QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module shift_register
+
+Top level modules:
+	shift_register
+
+} {} {}} C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q1/shift_register_tb.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q1/shift_register_tb.sv
+QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module shift_register_tb
+
+Top level modules:
+	shift_register_tb
+
+} {} {}} C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q5/register_file.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q5/register_file.sv
+QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module registerfile
+
+Top level modules:
+	registerfile
+
+} {} {}} C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q4/frequency_divider_tb.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q4/frequency_divider_tb.sv
+QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module frequency_divider_tb
+
+Top level modules:
+	frequency_divider_tb
+
+} {} {}} C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q2/LFSR_6bit.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q2/LFSR_6bit.sv
+QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module LFSR_6bit
+
+Top level modules:
+	LFSR_6bit
+
+} {} {}} C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q5/register_file_tb.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q5/register_file_tb.sv
+QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module registerfile_tb
+
+Top level modules:
+	registerfile_tb
+
+} {} {}} C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q3/up_down_counter.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q3/up_down_counter.sv
+QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module up_down_counter
+
+Top level modules:
+	up_down_counter
+
+} {} {}} C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q2/LFSR_6bit_tb.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q2/LFSR_6bit_tb.sv
+QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module LFSR_6bit_tb
+
+Top level modules:
+	LFSR_6bit_tb
+
+} {} {}} C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q4/upcnt4.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q4/upcnt4.sv
+QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module upcnt4
+
+Top level modules:
+	upcnt4
+
+} {} {}} C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q3/up_down_counter_tb.sv {2 {vlog -work work -vopt -sv -stats=none C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q3/up_down_counter_tb.sv
+QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module up_down_counter_tb
+** Warning: C:/Users/Ru/github-classroom/kth-ees/il2234ht25-homework-2-rubenvalverde0/q3/up_down_counter_tb.sv(23): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+Top level modules:
+	up_down_counter_tb
+
+} {} {}}
